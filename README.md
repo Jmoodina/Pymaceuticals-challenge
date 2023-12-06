@@ -1,11 +1,14 @@
 # Pymaceuticals SCC Study Analysis Repository
 
-## Objective
+## Project Introduction
 Welcome to the Pymaceuticals, Inc. GitHub repository dedicated to the comprehensive analysis of our recent animal study focused on screening potential treatments for squamous cell carcinoma (SCC), a prevalent form of skin cancer. As a senior data analyst at Pymaceuticals, my role involves dissecting the complete dataset from this study, which involved 249 mice with SCC tumors subjected to various drug regimens. Throughout a 45-day period, the development and measurement of tumor progression were meticulously observed.
 
+The executive team has specifically assigned me the task of providing a top-level summary of the study results, and this repository will showcase the code, visualizations, and analyses that contribute to our findings. Your engagement with this repository is key to gaining insights into the performance of Capomulin and other treatments in addressing SCC, ultimately advancing our understanding of potential cancer therapies.
+
+## Objective
 The primary objective of this study was to evaluate the efficacy of Pymaceuticals' key anti-cancer drug, Capomulin, in comparison to other treatment regimens. This repository serves as a centralized hub for the generation of tables and figures essential for the technical report detailing our clinical study.
 
-The executive team has specifically assigned me the task of providing a top-level summary of the study results, and this repository will showcase the code, visualizations, and analyses that contribute to our findings. Your engagement with this repository is key to gaining insights into the performance of Capomulin and other treatments in addressing SCC, ultimately advancing our understanding of potential cancer therapies.
+
 
 ## Project Tasks Overview
 - Data Preparation
